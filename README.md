@@ -4,7 +4,7 @@ Saya adalah **mahasiswa Informatika** di ITATS yang saat ini sangat antusias mem
 
 ## 🎮 Minat & Cita-Cita
 - Fokus pada dunia **game development**
-- Hobi saya adalah **mempelajari hal baru**, khususnya teknologi dan tools terbaru seputar pembuatan game
+- Hobi saya adalah **mempelajari hal baru**, khususnya teknologi dan tools seputar pembuatan game
 - Berambisi menjadi seorang **game developer profesional**
 
 ## 🌱 Saat Ini Saya Sedang:
