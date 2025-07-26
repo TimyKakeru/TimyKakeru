@@ -13,7 +13,7 @@ Saya adalah **mahasiswa Informatika** di ITATS yang saat ini sangat antusias mem
 
 ## 📫 Hubungi Saya
 - LinkedIn: [Timy Kakeru](https://www.linkedin.com/in/timy-kakeru)
-- kakerutimy05@gmail.com
+
 ---
 
 **“Belajar adalah petualangan, dan dunia game adalah tujuan saya!”**
